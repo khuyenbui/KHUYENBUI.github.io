@@ -1,0 +1,33 @@
+
+
+body {
+        font-family: Georgia;
+        font-size: 14pt;
+        margin-left: 10%;
+        margin-right: 10%;
+}
+
+.subh1 {
+        font-size: 14;
+        text-align: center;
+        font-style: italic;
+}
+.position {
+        font-weight: bold;
+}
+
+.subheader {
+        font-style: italic;
+        text-indent: 10pt;
+
+}
+#title {
+        margin-top: 5%;
+        font-size: 34pt;
+        height: 20;
+        text-align: center;
+}
+
+.header {
+        padding-bottom: auto;
+}

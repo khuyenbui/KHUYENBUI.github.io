@@ -1,0 +1,38 @@
+/* TODO: fix my public html for github
+fix resume html validator
+fix resume style
+
+REVIEW: good work today, more tomorrow during office hour;
+*/
+
+
+body {
+        font-family: Georgia;
+        font-size: 20pt;
+}
+
+#title {
+        margin-top: 5%;
+        font-size: 34pt;
+        height: 20;
+        text-align: center;
+}
+
+#subtitle {
+        font-size: 22;
+        text-align: center;
+        font-style: italic;
+}
+
+.container {
+        width: 200px;
+        height: 200px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+.container img {
+        width: 100%;
+        height: auto;
+}
+
