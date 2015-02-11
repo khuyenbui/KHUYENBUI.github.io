@@ -7,6 +7,11 @@ body {
         margin-right: 10%;
 }
 
+
+#title {
+        text-align: center;
+        margin-bottom: -2px;
+}
 .subh1 {
         font-size: 14;
         text-align: center;
@@ -21,7 +26,6 @@ body {
         text-indent: 10pt;
 
 }
-
 .header {
         padding-bottom: auto;
 }
