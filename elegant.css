@@ -13,7 +13,7 @@ body {
         margin-bottom: -2px;
 }
 .subh1 {
-        font-size: 14;
+        font-size: 18px;
         text-align: center;
         font-style: italic;
 }
@@ -24,8 +24,9 @@ body {
 .subheader {
         font-style: italic;
         text-indent: 10pt;
+        margin-bottom: -6px;
 
 }
 .header {
-        padding-bottom: auto;
+        margin-bottom: 6px;
 }

@@ -14,12 +14,12 @@ body {
 #title {
         margin-top: 5%;
         font-size: 34pt;
-        height: 20;
+        height: 20px;
         text-align: center;
 }
 
 #subtitle {
-        font-size: 22;
+        font-size: 22px;
         text-align: center;
         font-style: italic;
 }
